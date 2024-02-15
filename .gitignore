@@ -24,3 +24,4 @@ yarn-error.log*
 
 # My stuff
 backend/Madlibgen/api_code.py
+backend/Madlibgen/api_key.py

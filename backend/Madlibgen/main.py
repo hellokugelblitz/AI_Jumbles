@@ -10,7 +10,7 @@ from moviepy.editor import concatenate_videoclips
 from moviepy.video import vfx
 
 # Other important imports...
-from api_code import API_KEY_EL # If you are recreating this with your own key youll need to change this.
+from api_key import API_KEY_EL # If you are recreating this with your own key youll need to change this.
 from enum import Enum
 
 
