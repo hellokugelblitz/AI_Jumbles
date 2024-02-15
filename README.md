@@ -1,1 +1,1 @@
-# MadlibDocumentery
+# AI Jumbles
